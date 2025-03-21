@@ -1,2 +1,3 @@
 # -Informatyk-
-witaj na moim repozytorium w którym umieszczam zadania 
+witaj na moim repozytorium.Moje repozytorium zawiera materiały i zadania zrobione przezemnie w ramcah lekcji wsm nie 
+wiem czy są dobre ale najważniejsze są chęci i zangażowanie
